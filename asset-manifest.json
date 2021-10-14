@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VictorianPremierMediaCentreSearch/static/css/main.a617e044.chunk.css",
+    "main.js": "/VictorianPremierMediaCentreSearch/static/js/main.0ed6aab6.chunk.js",
+    "main.js.map": "/VictorianPremierMediaCentreSearch/static/js/main.0ed6aab6.chunk.js.map",
+    "runtime-main.js": "/VictorianPremierMediaCentreSearch/static/js/runtime-main.c4cfbb71.js",
+    "runtime-main.js.map": "/VictorianPremierMediaCentreSearch/static/js/runtime-main.c4cfbb71.js.map",
+    "static/js/2.7d13aa18.chunk.js": "/VictorianPremierMediaCentreSearch/static/js/2.7d13aa18.chunk.js",
+    "static/js/2.7d13aa18.chunk.js.map": "/VictorianPremierMediaCentreSearch/static/js/2.7d13aa18.chunk.js.map",
+    "static/js/3.79ae84a8.chunk.js": "/VictorianPremierMediaCentreSearch/static/js/3.79ae84a8.chunk.js",
+    "static/js/3.79ae84a8.chunk.js.map": "/VictorianPremierMediaCentreSearch/static/js/3.79ae84a8.chunk.js.map",
+    "index.html": "/VictorianPremierMediaCentreSearch/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/VictorianPremierMediaCentreSearch/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7d13aa18.chunk.js.LICENSE.txt": "/VictorianPremierMediaCentreSearch/static/js/2.7d13aa18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4cfbb71.js",
+    "static/js/2.7d13aa18.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0ed6aab6.chunk.js"
+  ]
+}
