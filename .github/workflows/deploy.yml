@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    name: Upload to Amazon S3
+    name: Deploy site to gh-pages
     runs-on: ubuntu-latest
 
     steps:
