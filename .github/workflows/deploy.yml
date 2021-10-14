@@ -1,0 +1,21 @@
+name: Upload Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Upload to Amazon S3
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Load dependancies
+        run: yarn
+
+      - name: Deploy to gh-pages branch
+        run: yarn deploy
